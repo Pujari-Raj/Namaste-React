@@ -1,3 +1,5 @@
+import React from "react";
+import  ReactDOM  from "react-dom/client";
 const reactheading = React.createElement(
   "h1",
   { id: "react-heading" }, // (attributes) this object is used to give the attributes to a tag(id,class,etc)
